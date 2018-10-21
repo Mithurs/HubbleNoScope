@@ -7,7 +7,8 @@ Game made using Game Maker Studio 2: https://www.yoyogames.com/gamemaker
 
 Github of Game Maker Studio 2 Project: https://github.com/Mithurs/HubbleNoScope
 
-Gameplay Demo: 
+Gameplay Demo:
+
 [![Hubble Deep Explorer Demo](https://img.youtube.com/vi/8cTlYPwRdAk/0.jpg)](https://www.youtube.com/watch?v=8cTlYPwRdAk "Hubble Deep Explorer Demo")
 
 
