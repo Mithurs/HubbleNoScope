@@ -1,4 +1,4 @@
-# HubbleNoScope
+# Hubble NoScope
 Hubble Telescope Space Shooter and Exploration Game for NASA Space Apps 2018
 
 Maneuver the Hubble Telescope through space, dodge and shoot down incoming asteroids, and take pictures of passing celestial bodies. Try to get the high score and collect all the pictures to reveal what they are.
