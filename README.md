@@ -9,14 +9,14 @@ Github of Game Maker Studio 2 Project: https://github.com/Mithurs/HubbleNoScope
 
 Gameplay Demo:
 
-[![Hubble Deep Explorer Demo](https://img.youtube.com/vi/8cTlYPwRdAk/0.jpg)](https://www.youtube.com/watch?v=8cTlYPwRdAk "Hubble Deep Explorer Demo")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Hubble Deep Explorer Demo](https://img.youtube.com/vi/8cTlYPwRdAk/0.jpg)](https://www.youtube.com/watch?v=8cTlYPwRdAk "Hubble Deep Explorer Demo")
 
 
 
 Assets from:
 
-NASA: https://www.nasa.gov/mission_pages/hubble/main/index.html
-STSci: http://hubblesite.org/
-OpenGameArt: https://opengameart.org/
-PixaBay: https://pixabay.com/
+* NASA: https://www.nasa.gov/mission_pages/hubble/main/index.html
+* STSci: http://hubblesite.org/
+* OpenGameArt: https://opengameart.org/
+* PixaBay: https://pixabay.com/
 
